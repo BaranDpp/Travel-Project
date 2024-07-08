@@ -1,0 +1,34 @@
+﻿@model IEnumerable<TravelProject.Models.City>
+@{
+    Layout = "_SiteLayout";
+}
+<div class="container-fluid tm-container-content tm-mt-60">
+    <div class="row mb-4">
+        <h2 class="col-6 tm-text-primary">
+            Latest Photos
+        </h2>
+        <div class="col-6 d-flex justify-content-end align-items-center">
+            <form action="" class="tm-text-primary">
+                Page <input type="text" value="1" size="1" class="tm-input-paging tm-text-primary"> of 200
+            </form>
+        </div>
+    </div>
+    <div class="row tm-mb-90 tm-gallery">
+        @foreach(var x in Model){
+        <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+            <figure class="effect-ming tm-video-item">
+                <img src="@x.ImageUrl" alt="@x.Name" class="img-fluid">
+                <figcaption class="d-flex align-items-center justify-content-center">
+                    <h2>@x.Name</h2>
+                        <a href="@Url.Action("Details", "City", new { id = x.CityId })">View more</a>
+                </figcaption>
+            </figure>
+            <div class="d-flex justify-content-between tm-text-gray">
+                <span class="tm-text-gray-light">@x.Country</span>
+                <span>9,906 views</span>
+            </div>
+        </div>}
+       
+    </div> <!-- row -->
+    
+</div>

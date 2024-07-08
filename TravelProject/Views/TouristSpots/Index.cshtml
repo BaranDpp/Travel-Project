@@ -1,0 +1,70 @@
+﻿@model IEnumerable<TravelProject.Models.TouristSpot>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string GetFirstWords(string text, int wordCount)
+    {
+        if (string.IsNullOrEmpty(text)) return text;
+
+        var words = text.Split(' ');
+        if (words.Length <= wordCount) return text;
+
+        return string.Join(' ', words.Take(wordCount)) + "...";
+    }
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">Tourist Spots</h1>
+    <div class="text-center mb-4">
+        <a asp-action="Create" class="btn btn-success">Create New</a>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <table class="table table-striped table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Description)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().ImageUrl)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().City.Name)
+                        </th>
+                        <th class="text-center">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @GetFirstWords(item.Description, 5)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ImageUrl)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.City.Name)
+                            </td>
+                            <td class="text-center">
+                                <a asp-action="Edit" asp-route-id="@item.TouristSpotId" class="btn btn-primary btn-sm">Edit</a>
+                                <a asp-action="Details" asp-route-id="@item.TouristSpotId" class="btn btn-info btn-sm">Details</a>
+                                <a asp-action="Delete" asp-route-id="@item.TouristSpotId" class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

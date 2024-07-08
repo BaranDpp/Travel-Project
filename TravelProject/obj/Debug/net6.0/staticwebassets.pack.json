@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TravelProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\401.html",
+      "PackagePath": "staticwebassets\\admin_template\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\404.html",
+      "PackagePath": "staticwebassets\\admin_template\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\500.html",
+      "PackagePath": "staticwebassets\\admin_template\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin_template\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin_template\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin_template\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin_template\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin_template\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\charts.html",
+      "PackagePath": "staticwebassets\\admin_template\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin_template\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\index.html",
+      "PackagePath": "staticwebassets\\admin_template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin_template\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin_template\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\admin_template\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\layout-static.html",
+      "PackagePath": "staticwebassets\\admin_template\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\login.html",
+      "PackagePath": "staticwebassets\\admin_template\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\password.html",
+      "PackagePath": "staticwebassets\\admin_template\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\register.html",
+      "PackagePath": "staticwebassets\\admin_template\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\admin_template\\tables.html",
+      "PackagePath": "staticwebassets\\admin_template\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\images\\hero.jpg",
+      "PackagePath": "staticwebassets\\images\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\images\\img-01-big.jpg",
+      "PackagePath": "staticwebassets\\images\\img-01-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\images\\img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\images\\img-03.jpg",
+      "PackagePath": "staticwebassets\\images\\img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\about.html",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\assets\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\assets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\assets\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\assets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\assets\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\assets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\assets\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\assets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\assets\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\assets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\contact.html",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\css\\styles.css",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\index.html",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\startbootstrap-clean-blog-gh-pages\\post.html",
+      "PackagePath": "staticwebassets\\startbootstrap-clean-blog-gh-pages\\post.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\about.html",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\contact.html",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\css\\templatemo-style.css",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\css\\templatemo-style.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\attribution.js",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\attribution.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\hero.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-01-big.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-01-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-01.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-02.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-03.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-04.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-05.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-06.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-07.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-08.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-09.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-10.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-11.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-12.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-13.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-14.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-15.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\img-16.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\img-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\people-1.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\people-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\people-2.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\people-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\people-3.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\people-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\people-4.jpg",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\people-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\img\\select-arrow.png",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\img\\select-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\index.html",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\photo-detail.html",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\photo-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\video-detail.html",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\video-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\video\\hero.mp4",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\video\\hero.mp4"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\source\\repos\\TravelProject\\wwwroot\\templatemo_556_catalog_z\\videos.html",
+      "PackagePath": "staticwebassets\\templatemo_556_catalog_z\\videos.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TravelProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TravelProject.props",
+      "PackagePath": "build\\TravelProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelProject.props",
+      "PackagePath": "buildMultiTargeting\\TravelProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TravelProject.props",
+      "PackagePath": "buildTransitive\\TravelProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

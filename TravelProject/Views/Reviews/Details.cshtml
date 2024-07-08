@@ -1,0 +1,46 @@
+﻿@model TravelProject.Models.Review
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">Review Details</h1>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h4>Review Information</h4>
+            <dl class="row">
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Rating)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Rating)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Comments)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Comments)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.UserId)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.UserId)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.TouristSpot)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.TouristSpot.Name)
+                </dd>
+            </dl>
+            <div class="text-center mt-4">
+                <a asp-action="Edit" asp-route-id="@Model?.ReviewId" class="btn btn-primary">Edit</a>
+                <a asp-action="Index" class="btn btn-secondary ml-2">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>

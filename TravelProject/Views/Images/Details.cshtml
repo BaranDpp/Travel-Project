@@ -1,0 +1,40 @@
+﻿@model TravelProject.Models.Image
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">Image Details</h1>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h4>Image Information</h4>
+            <dl class="row">
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Url)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Url)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Description)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.TouristSpot)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.TouristSpot.Name)
+                </dd>
+            </dl>
+            <div class="text-center mt-4">
+                <a asp-action="Edit" asp-route-id="@Model?.ImageId" class="btn btn-primary">Edit</a>
+                <a asp-action="Index" class="btn btn-secondary ml-2">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>

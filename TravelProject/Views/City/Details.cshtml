@@ -1,0 +1,38 @@
+﻿@model TravelProject.Models.City
+
+@{
+    Layout = "_SiteLayout";
+}
+
+<style>
+    .tm-video-item img {
+        width: 100%;
+        height: 200px; /* İstediğiniz sabit yükseklik */
+        object-fit: cover; /* Görüntünün kesilmesini ve doğru şekilde boyutlandırılmasını sağlar */
+    }
+</style>
+
+<div class="container-fluid tm-container-content tm-mt-60">
+    <div class="row mb-4">
+        <h2 class="col-6 tm-text-primary">
+            @Model.Name - Tourist Spots
+        </h2>
+    </div>
+    <div class="row tm-mb-90 tm-gallery">
+        @foreach (var spot in Model.TouristSpots)
+        {
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
+                <figure class="effect-ming tm-video-item">
+                    <img src="@spot.ImageUrl" alt="@spot.Name" class="img-fluid">
+                    <figcaption class="d-flex align-items-center justify-content-center">
+                        <h2>@spot.Name</h2>
+                        <a href="@Url.Action("Details", "TouristSpot", new { id = spot.TouristSpotId })">View more</a>
+                    </figcaption>
+                </figure>
+                <div class="d-flex justify-content-between tm-text-gray">
+                    <span class="tm-text-gray-light">@Model.Name, @Model.Country</span>
+                </div>
+            </div>
+        }
+    </div> <!-- row -->
+</div>

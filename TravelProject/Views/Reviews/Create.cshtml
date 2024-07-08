@@ -1,0 +1,85 @@
+﻿@model TravelProject.Models.Review
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">Create Review</h1>
+    <h4 class="text-muted text-center">Review Information</h4>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create" class="needs-validation" novalidate>
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Rating" class="form-label"></label>
+                    <input asp-for="Rating" class="form-control" required />
+                    <div class="invalid-feedback">
+                        Please enter a valid rating.
+                    </div>
+                    <span asp-validation-for="Rating" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Comments" class="form-label"></label>
+                    <textarea asp-for="Comments" class="form-control" rows="3" required></textarea>
+                    <div class="invalid-feedback">
+                        Please enter comments.
+                    </div>
+                    <span asp-validation-for="Comments" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="UserId" class="form-label"></label>
+                    <input asp-for="UserId" class="form-control" required />
+                    <div class="invalid-feedback">
+                        Please enter a valid user ID.
+                    </div>
+                    <span asp-validation-for="UserId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="TouristSpotId" class="form-label"></label>
+                    <select asp-for="TouristSpotId" class="form-select" asp-items="ViewBag.TouristSpotId" required></select>
+                    <div class="invalid-feedback">
+                        Please select a tourist spot.
+                    </div>
+                    <span asp-validation-for="TouristSpotId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3 text-center">
+                    <button type="submit" class="btn btn-primary w-100">Create</button>
+                </div>
+            </form>
+            <div class="text-center mt-3">
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        (function () {
+            'use strict';
+            window.addEventListener('load', function () {
+                var forms = document.getElementsByClassName('needs-validation');
+                Array.prototype.filter.call(forms, function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (form.checkValidity() === false) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+            }, false);
+        })();
+    </script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
